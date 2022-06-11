@@ -60,7 +60,7 @@ class FromData extends StatelessWidget {
               leading: const CircleAvatar(
                 radius: 28,
                 backgroundImage: AssetImage( 
-                  'assets/images/user.jpg', 
+                  'assets/user.jpg', 
                 ),
               ),
               title: Text(user.name),
