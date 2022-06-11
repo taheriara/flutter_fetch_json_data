@@ -1,7 +1,7 @@
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
-import 'package:web_view/model/user.dart';
+import 'package:flutter_fetch_json_data/model/user.dart';
 
 class FromAssets extends StatefulWidget {
   const FromAssets({Key? key}) : super(key: key);
