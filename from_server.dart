@@ -55,7 +55,7 @@ class FromSerer extends StatelessWidget {
               leading: const CircleAvatar(
                 radius: 28,
                 backgroundImage: AssetImage(  // or NetworkImage(...)
-                  'assets/images/user.jpg',
+                  'assets/user.jpg',
                 ),
               ),
               title: Text(user.name),
